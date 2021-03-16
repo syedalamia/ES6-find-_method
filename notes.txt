@@ -1,0 +1,39 @@
+numbers array moddhe
+
+find method proti ta element er vitor die iterate korbe
+
+*parameter hishebe ekta function nibe
+
+*ebong oi function ta joto guli element er vitor die jabe
+ebong kaj korbe
+
+
+*jokhon e true return korbe
+
+* 
+3 e gie true return korle ei function ta break hoe jabe
+
+*
+particular condition e kono kichu pete chaile
+find use korbo
+
+***
+dhori ami chacchi
+jokhn amar number ta array r 4 er theke boro tokhon amake sheita return kore do
+
+
+o ki korbe
+-------------------------------
+var result=numbers.find(function(currentvalue, currentindex, array){
+	return  currentvalue>4  //4 e eshe halt hobe
+
+});
+
+**chaile currentindex, arr eguli o amra find er vitore use korte pari
+
+
+
+**abar explicitly this pathie dile
+
+global ta na peye local k e pai
+class er khetre
